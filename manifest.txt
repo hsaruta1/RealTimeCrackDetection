@@ -1,0 +1,2 @@
+Main-Class: Loupe
+Class-Path: ./opencv-401.jar
